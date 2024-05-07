@@ -1,0 +1,14 @@
+h1{
+    padding-left:250px;
+    color: blueviolet;
+}
+#result{
+    font-size: 30px;
+	margin-top: 50px;
+
+}
+.cow>img{
+margin-left: 250px;
+    width: 50%;
+    height: 450px;
+}
