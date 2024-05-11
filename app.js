@@ -3,7 +3,7 @@ function remainingDAYS(){
     var today = new Date();
 
 // Create a Date object for Eid ul Azha (assuming it's on June 16, 2024)
-var eidUlAzha = new Date(2024, 6, 16);
+var eidUlAzha = new Date("17 june 2024");
 
 // Calculate the difference in milliseconds between today and Eid ul Azha
 var timeDiff = eidUlAzha.getTime() - today.getTime();
